@@ -27,6 +27,11 @@ button {
     font-size: 0.7rem;
     margin: 0 2em;
     font-family: 'Rubik Mono One', sans-serif;
+    box-shadow: 0 .5em .5em black;
+}
+
+button:hover {
+    box-shadow: 0 1em 1em black;
 }
 
 a {
