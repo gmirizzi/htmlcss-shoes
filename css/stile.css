@@ -34,6 +34,10 @@ button:hover {
     box-shadow: 0 1em 1em black;
 }
 
+a:active button{
+    background-color: gray;
+}
+
 a {
     text-decoration: none;
 }
